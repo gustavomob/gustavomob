@@ -16,7 +16,7 @@
     
  >   Sobre mim: 
   
-  <p> Sou um expert em criar soluções mobile interativas e inovadoras com apoio das metodologias ágeis. Também já tive experiências em outras áreas como aplicações Web e Desktop. Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos e habilidades. </p>      
+ <p>Sou especialista em soluções móveis e entusiasta em Pentest, com foco em desenvolver aplicativos inovadores, escaláveis e seguros ao longo de todo o ciclo de desenvolvimento.</p> <p>Já apliquei a cultura DevSecOps em uma aplicação web desenvolvida em Python, garantindo a integração contínua da segurança no processo de desenvolvimento.</p><p> Valorizo o trabalho em equipe e estou em constante evolução profissional, sempre buscando contribuir com projetos desafiadores na interseção entre desenvolvimento e segurança.</p>
           
 </div>
 
@@ -36,68 +36,69 @@
 
 ## :robot: &nbsp;Tech Stack 
 
->  Front-end:
-
-<a href="https://developer.android.com/" target="_blank">
+> Mobile:
+<a href="https://reactnative.dev/docs/getting-started" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-React%20Native-414141?style=flat&logo=react" alt="React Native"/>
+</a>&nbsp;
+<a href="https://developer.android.com/docs" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
 </a>&nbsp;
-<a href="https://reactnative.dev/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ReactNative-414141?style=flat&logo=react" alt="ReactNative"/>
-</a>&nbsp;
-<a href="https://docs.flutter.dev/get-started/install" target="_blank">
+<a href="https://docs.flutter.dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Flutter-414141?style=flat&logo=flutter" alt="Flutter"/>
 </a>&nbsp;
-<a href="https://expo.dev/" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/expo-414141?style=for-the-badge&logo=expo&logoColor=#414141 alt="Expo"/>           
-</a>&nbsp;
-<a href="https://www.typescriptlang.org/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Typescript-414141?style=flat&logo=typescript" alt="Typescript"/>
-</a>&nbsp;
-<a href="https://styled-components.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SytedComponents-414141?style=flat&logo=styled-components" alt="StyledComponents"/>
-</a>&nbsp;
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Tailwind-414141?style=flat&logo=tailwind" alt="Tailwind"/>
-</a>&nbsp; 
-<br /><br />
-
-> Back-end:
-
-<a href="https://nodejs.org/en/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
-</a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
-</a>&nbsp;
-<a href="https://www.sqlite.org/docs.html" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SqlLite-414141?style=flat&logo=sqlite" alt="SQLLite"/>
-</a>&nbsp;
-<a href="https://www.postgresql.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Postgresql-414141?style=flat&logo=postgresql" alt="Postgresql"/>
-</a>&nbsp;
-<a href="https://firebase.google.com/" target="_blank">
+<a href="https://firebase.google.com/docs" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
-</a>&nbsp;
-<a href="https://www.java.com/pt-BR/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Java-414141?style=flat&logo=java" alt="Java"/>
-</a>&nbsp;
-<a href="https://docs.docker.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
-</a>&nbsp;
-<a href="https://vercel.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Vercel-414141?style=flat&logo=vercel" alt="Vercel"/>
-</a>&nbsp;
-<br /><br />
+</a>
+<a href="https://www.sqlite.org/docs.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SQLite-414141?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+</a><br/>&nbsp;
 
-> Testes:
+> Pentest:
+<a href="https://portswigger.net/burp" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Burp%20Suite-414141?style=flat&logo=burpsuite&logoColor=orange" alt="Burp Suite"/>
+</a>&nbsp;
+<a href="https://www.wireshark.org/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Wireshark-414141?style=flat&logo=wireshark" alt="Wireshark"/>
+</a>&nbsp;
+<a href="https://nmap.org/book/man.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Nmap-414141?style=flat&logo=nmap" alt="Nmap"/>
+</a>&nbsp;
+<a href="https://docs.rapid7.com/metasploit/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Metasploit-414141?style=flat&logo=metasploit" alt="Metasploit"/>
+</a>&nbsp;
+<a href="https://www.zaproxy.org/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-OWASP%20ZAP-414141?style=flat&logo=OWASP" alt="OWASP ZAP"/>
+</a>&nbsp;
+<a href="https://www.kali.org/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Kali%20Linux-414141?style=flat&logo=kalilinux" alt="Kali Linux"/>
+</a>&nbsp;
+<a href="https://man7.org/linux/man-pages/man1/nc.1.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Netcat-414141?style=flat&logo=gnu-bash" alt="Netcat"/>
+</a>&nbsp;
+<a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Shell%20Script-414141?style=flat&logo=gnu-bash" alt="Shell Script"/>
+</a>&nbsp;
+<a href="https://www.python.org/doc/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
+</a><br/>&nbsp;
 
-<a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Jest-414141?style=flat&logo=jest" alt="Jest"/>
+> DevSecOps:
+<a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Terraform-414141?style=flat&logo=terraform" alt="Terraform"/>
 </a>&nbsp;
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RTL-414141?style=flat&logo=rtl" alt="RTL"/>
+<a href="https://prometheus.io/docs/introduction/overview/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Prometheus-414141?style=flat&logo=prometheus" alt="Prometheus"/>
 </a>&nbsp;
-<br /><br />
+<a href="https://grafana.com/docs/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Grafana-414141?style=flat&logo=grafana" alt="Grafana"/>
+</a>&nbsp;
+<a href="https://sonarqube.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SonarQube-414141?style=flat&logo=sonarqube" alt="SonarQube"/>
+</a>&nbsp;
+<a href="https://bandit.readthedocs.io/en/latest/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Bandit-414141?style=flat&logo=python" alt="Bandit"/>
+</a><br />&nbsp;
+
 
 > Tools:
 
