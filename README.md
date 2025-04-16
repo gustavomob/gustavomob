@@ -16,7 +16,7 @@
     
  >   Sobre mim: 
   
- <p>Sou especialista em soluções móveis e entusiasta em Pentest, com foco em desenvolver aplicativos inovadores, escaláveis e seguros ao longo de todo o ciclo de desenvolvimento.</p> <p>Já apliquei a cultura DevSecOps em uma aplicação web desenvolvida em Python, garantindo a integração contínua da segurança no processo de desenvolvimento.</p><p> Valorizo o trabalho em equipe e estou em constante evolução profissional, sempre buscando contribuir com projetos desafiadores na interseção entre desenvolvimento e segurança.</p>
+<p>Sou especialista em soluções móveis e entusiasta em Pentest, com foco em criar aplicativos inovadores, escaláveis e seguros, integrando boas práticas de segurança desde as fases iniciais do ciclo de desenvolvimento.</p> <p>Atualmente, estou me aprofundando nos princípios de DevSecOps, buscando integrar segurança de forma contínua, automatizada e colaborativa nos pipelines de desenvolvimento. Já coloquei esses conceitos em prática em um projeto real: uma aplicação web desenvolvida em Python, na qual implementei práticas como análise estática de código, testes automatizados de segurança e integração contínua com foco em conformidade e proteção desde o versionamento até o deploy.</p> <p>Valorizo o trabalho em equipe, a troca de conhecimento e estou em constante evolução profissional, sempre em busca de contribuir com projetos desafiadores na interseção entre desenvolvimento e segurança.</p>
           
 </div>
 
