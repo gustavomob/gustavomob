@@ -21,6 +21,7 @@
 </div>
 
   -   :handbag:  &nbsp; Freelancer: Desenvolvedor de Software - Landpages, sites e aplicativos móveis.
+  -   :mortar_board:  &nbsp; Imersão técnica: &nbsp; Pentest [GoHacking Membership](https://gohacking.com.br/)
   -   :mortar_board:  &nbsp; Imersão técnica: &nbsp; DevSecOps [Hackers do Bem](https://conteudo.hackersdobem.org.br/)
   -   :mortar_board:  &nbsp; Imersão técnica:  &nbsp; Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)
   -   :mortar_board:  &nbsp; Pós-graduação:  &nbsp; Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/).
