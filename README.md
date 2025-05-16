@@ -20,13 +20,13 @@
           
 </div>
 
- 
-  -   :mortar_board: &nbsp; Graduação:  &nbsp; Processamento de Dados pela [ASPER](https://www.asper.edu.br/)
-  -   :mortar_board:  &nbsp; Pós-graduação:  &nbsp; Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/). 
-  -   :mortar_board:  &nbsp; Imersão técnica:  &nbsp; Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)
-  -   :mortar_board: &nbsp; Em formação:  &nbsp; Cyber Segurança pelo programa [Hackers do Bem](https://conteudo.hackersdobem.org.br/)
-  -   :handbag:  &nbsp; Estágio: &nbsp;  Analista de TI - [Projeto Cooperar](https://cooperar.pb.gov.br/)
   -   :handbag:  &nbsp; Freelancer: Desenvolvedor de Software - Landpages, sites e aplicativos móveis.
+  -   :mortar_board:  &nbsp; Imersão técnica: &nbsp; DevSecOps [Hackers do Bem](https://conteudo.hackersdobem.org.br/)
+  -   :mortar_board:  &nbsp; Imersão técnica:  &nbsp; Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)
+  -   :mortar_board:  &nbsp; Pós-graduação:  &nbsp; Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/).
+  -   :handbag:  &nbsp; Estágio: &nbsp;  Analista de TI - [Projeto Cooperar](https://cooperar.pb.gov.br/)
+  -   :mortar_board: &nbsp; Graduação:  &nbsp; Processamento de Dados pela [ASPER](https://www.asper.edu.br/) 
+  
   
   -   :round_pushpin: João Pessoa, Paraiba, Brasil  
 
