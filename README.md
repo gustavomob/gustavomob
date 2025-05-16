@@ -16,8 +16,8 @@
     
  >   Sobre mim: 
   
-<p>Sou especialista em soluções móveis e entusiasta em Pentest, com foco em criar aplicativos inovadores, escaláveis e seguros, integrando boas práticas de segurança desde as fases iniciais do ciclo de desenvolvimento.</p> <p>Atualmente, estou me aprofundando nos princípios de DevSecOps e AppSec, buscando integrar segurança de forma contínua, automatizada e colaborativa nos pipelines de desenvolvimento. Já coloquei esses conceitos em prática em um projeto real: uma aplicação web desenvolvida em Python, na qual implementei práticas como análise estática de código, testes automatizados de segurança e integração contínua com foco em conformidade e proteção desde o versionamento até o deploy.</p> <p>Valorizo o trabalho em equipe, a troca de conhecimento e estou em constante evolução profissional, sempre em busca de contribuir com projetos desafiadores na interseção entre desenvolvimento e segurança.</p>
-          
+<p>Sou especialista em soluções móveis, com conhecimento em Design UI/UX para aplicações, e entusiasta em Pentest, focado na criação de aplicativos inovadores, escaláveis e seguros. Busco integrar boas práticas de segurança desde as etapas iniciais do ciclo de desenvolvimento.</p> <p>Atualmente, aprofundo meus conhecimentos em AppSec e DevSecOps, com o objetivo de incorporar a segurança de forma contínua, automatizada e colaborativa nas pipelines de desenvolvimento.</p> <p>Valorizo o trabalho em equipe, a troca de conhecimento e estou em constante evolução profissional. Procuro sempre contribuir com projetos desafiadores que unam desenvolvimento, segurança e uma excelente experiência do usuário.</p>
+
 </div>
 
   -   :handbag:  &nbsp; Freelancer: Desenvolvedor de Software - Landpages, sites e aplicativos móveis.
