@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 <a href="mailto:gustavogss.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://api.whatsapp.com/send?phone=5583998015475" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://t.me/gustavosouzajp" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 <br />
 <div align="justify">
@@ -46,15 +44,26 @@
 </a>&nbsp;
 <a href="https://docs.flutter.dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Flutter-414141?style=flat&logo=flutter" alt="Flutter"/>
-</a>&nbsp;
-<a href="https://firebase.google.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
-</a>
-<a href="https://www.sqlite.org/docs.html" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SQLite-414141?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
 </a><br/>&nbsp;
 
-> Pentest:
+> Backend:
+<a href="https://firebase.google.com/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
+</a>&nbsp;
+<a href="https://www.sqlite.org/docs.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SQLite-414141?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+</a>&nbsp;
+<a href="https://nodejs.org/en/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Node.js-414141?style=flat&logo=node.js" alt="Node.js"/>
+</a>&nbsp;
+<a href="https://dev.mysql.com/doc/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
+</a>&nbsp;
+<a href="https://www.prisma.io/docs" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Prisma%20ORM-414141?style=flat&logo=prisma" alt="Prisma ORM"/>
+</a><br/>&nbsp;
+
+> Pentest:  
 <a href="https://portswigger.net/burp" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Burp%20Suite-414141?style=flat&logo=burpsuite&logoColor=orange" alt="Burp Suite"/>
 </a>&nbsp;
@@ -81,7 +90,22 @@
 </a>&nbsp;
 <a href="https://www.python.org/doc/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
-</a><br/>&nbsp;
+</a>&nbsp;
+<a href="https://cirt.net/Nikto2" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Nikto-414141?style=flat&logo=gnubash&logoColor=white" alt="Nikto"/>
+</a>&nbsp;
+<a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Hydra-414141?style=flat&logo=gnubash&logoColor=white" alt="Hydra"/>
+</a>&nbsp;
+<a href="https://sqlmap.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SQLmap-414141?style=flat&logo=gnubash&logoColor=white" alt="SQLmap"/>
+</a>&nbsp;
+<a href="https://www.openwall.com/john/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-John%20the%20Ripper-414141?style=flat&logo=gnubash&logoColor=white" alt="John the Ripper"/>
+</a>&nbsp;
+<a href="https://www.aircrack-ng.org/documentation.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Aircrack--ng-414141?style=flat&logo=gnubash&logoColor=white" alt="Aircrack-ng"/>
+</a><br />&nbsp;
 
 > DevSecOps:
 <a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
@@ -93,16 +117,28 @@
 <a href="https://grafana.com/docs/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Grafana-414141?style=flat&logo=grafana" alt="Grafana"/>
 </a>&nbsp;
-<a href="https://sonarqube.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SonarQube-414141?style=flat&logo=sonarqube" alt="SonarQube"/>
+<a href="https://www.sonarqube.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SonarQube-414141?style=flat&logo=sonarqube&logoColor=white" alt="SonarQube"/>
 </a>&nbsp;
 <a href="https://bandit.readthedocs.io/en/latest/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Bandit-414141?style=flat&logo=python" alt="Bandit"/>
+</a>&nbsp;
+<a href="https://www.docker.com/get-started/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
+</a>&nbsp;
+<a href="https://about.gitlab.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-GitLab-414141?style=flat&logo=gitlab&logoColor=orange" alt="GitLab"/>
+</a>&nbsp;
+<a href="https://docs.github.com/en/actions" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-GitHub%20Actions-414141?style=flat&logo=githubactions" alt="GitHub Actions"/>
 </a><br />&nbsp;
 
+> Design UI:
+<a href="https://www.figma.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
+</a><br />&nbsp;
 
 > Tools:
-
 <a href="https://git-scm.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Git-414141?style=flat&logo=git" alt="Git"/>
 </a>&nbsp;
@@ -120,9 +156,6 @@
 </a>
 <a href="https://insomnia.rest/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Insomnia-414141?style=flat&logo=insomnia" alt="Insomnia"/>
-</a>
-<a href="https://www.figma.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
 </a>
 <a href="https://slack.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Slack-414141?style=flat&logo=slack" alt="Slack"/>
