@@ -85,14 +85,11 @@
 <a href="https://man7.org/linux/man-pages/man1/nc.1.html" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Netcat-414141?style=flat&logo=gnu-bash" alt="Netcat"/>
 </a>&nbsp;
-<a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Shell%20Script-414141?style=flat&logo=gnu-bash" alt="Shell Script"/>
-</a>&nbsp;
 <a href="https://www.python.org/doc/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
 </a>&nbsp;
-<a href="https://cirt.net/Nikto2" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Nikto-414141?style=flat&logo=gnubash&logoColor=white" alt="Nikto"/>
+<a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Shell%20Script-414141?style=flat&logo=gnubash&logoColor=white" alt="Shell Script"/>
 </a>&nbsp;
 <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Hydra-414141?style=flat&logo=gnubash&logoColor=white" alt="Hydra"/>
