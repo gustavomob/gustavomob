@@ -142,9 +142,9 @@
 <a href="https://github.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-GitHub-414141?style=flat&logo=github" alt="GitHub"/>
 </a>&nbsp;
-<a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GitFlow-414141?style=flat&logo=gitflow" alt="GitFlow"/>
-</a>
+<a href="https://nvie.com/posts/a-successful-git-branching-model/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Gitflow-414141?style=flat&logo=git&logoColor=white" alt="Gitflow"/>
+</a>&nbsp;
 <a href="https://ubuntu.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Ubuntu-414141?style=flat&logo=ubuntu" alt="Ubuntu"/>
 </a>&nbsp;
