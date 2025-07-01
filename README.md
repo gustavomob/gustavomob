@@ -97,12 +97,7 @@
 <a href="https://sqlmap.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-SQLmap-414141?style=flat&logo=gnubash&logoColor=white" alt="SQLmap"/>
 </a>&nbsp;
-<a href="https://www.openwall.com/john/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-John%20the%20Ripper-414141?style=flat&logo=gnubash&logoColor=white" alt="John the Ripper"/>
-</a>&nbsp;
-<a href="https://www.aircrack-ng.org/documentation.html" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Aircrack--ng-414141?style=flat&logo=gnubash&logoColor=white" alt="Aircrack-ng"/>
-</a><br />&nbsp;
+<br />&nbsp;
 
 > DevSecOps:
 <a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
