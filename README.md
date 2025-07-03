@@ -64,66 +64,12 @@
 </a><br/>&nbsp;
 
 > Pentest:  
-<a href="https://portswigger.net/burp" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Burp%20Suite-414141?style=flat&logo=burpsuite&logoColor=orange" alt="Burp Suite"/>
-</a>&nbsp;
-<a href="https://www.wireshark.org/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Wireshark-414141?style=flat&logo=wireshark" alt="Wireshark"/>
-</a>&nbsp;
-<a href="https://nmap.org/book/man.html" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Nmap-414141?style=flat&logo=nmap" alt="Nmap"/>
-</a>&nbsp;
-<a href="https://docs.rapid7.com/metasploit/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Metasploit-414141?style=flat&logo=metasploit" alt="Metasploit"/>
-</a>&nbsp;
-<a href="https://www.zaproxy.org/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-OWASP%20ZAP-414141?style=flat&logo=OWASP" alt="OWASP ZAP"/>
-</a>&nbsp;
-<a href="https://www.kali.org/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Kali%20Linux-414141?style=flat&logo=kalilinux" alt="Kali Linux"/>
-</a>&nbsp;
-<a href="https://man7.org/linux/man-pages/man1/nc.1.html" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Netcat-414141?style=flat&logo=gnu-bash" alt="Netcat"/>
-</a>&nbsp;
-<a href="https://www.python.org/doc/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
-</a>&nbsp;
-<a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Shell%20Script-414141?style=flat&logo=gnubash&logoColor=white" alt="Shell Script"/>
-</a>&nbsp;
-<a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Hydra-414141?style=flat&logo=gnubash&logoColor=white" alt="Hydra"/>
-</a>&nbsp;
-<a href="https://sqlmap.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SQLmap-414141?style=flat&logo=gnubash&logoColor=white" alt="SQLmap"/>
-</a>&nbsp;
-<br />&nbsp;
+<a href="https://www.frida.re/docs/home/" target="_blank">
+<img align="center" src="https://img.shields.io/badge/-Frida-414141?style=flat&logo=linux&logoColor=white" alt="Frida"/> </a>&nbsp; <a href="https://github.com/androguard/androguard" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Androguard-414141?style=flat&logo=android&logoColor=green" alt="Androguard"/> </a>&nbsp; <a href="https://developer.android.com/studio" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Android%20Studio-414141?style=flat&logo=androidstudio&logoColor=3DDC84" alt="Android Studio"/> </a>&nbsp; <a href="https://www.kali.org/tools/mobsf/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-MobSF-414141?style=flat&logo=kalilinux" alt="MobSF"/> </a>&nbsp; <a href="https://developer.apple.com/xcode/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Xcode-414141?style=flat&logo=apple&logoColor=white" alt="Xcode"/> </a>&nbsp; <a href="https://github.com/skylot/jadx" target="_blank"> <img align="center" src="https://img.shields.io/badge/-JADX-414141?style=flat&logo=java&logoColor=white" alt="JADX"/> </a>&nbsp; <a href="https://developer.android.com/tools/adb" target="_blank"> <img align="center" src="https://img.shields.io/badge/-ADB-414141?style=flat&logo=android&logoColor=green" alt="ADB"/> </a>&nbsp; <a href="https://www.genymotion.com/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Genymotion-414141?style=flat&logo=android&logoColor=white" alt="Genymotion"/> </a>&nbsp; <a href="https://portswigger.net/burp" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Burp%20Suite-414141?style=flat&logo=burpsuite&logoColor=orange" alt="Burp Suite"/> </a>&nbsp; <a href="https://www.zaproxy.org/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-OWASP%20ZAP-414141?style=flat&logo=OWASP" alt="OWASP ZAP"/> </a>&nbsp; <a href="https://mitmproxy.org/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-mitmproxy-414141?style=flat&logo=gnu-bash&logoColor=white" alt="mitmproxy"/> </a><br />&nbsp;
 
 > DevSecOps:
 <a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Terraform-414141?style=flat&logo=terraform" alt="Terraform"/>
-</a>&nbsp;
-<a href="https://prometheus.io/docs/introduction/overview/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Prometheus-414141?style=flat&logo=prometheus" alt="Prometheus"/>
-</a>&nbsp;
-<a href="https://grafana.com/docs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Grafana-414141?style=flat&logo=grafana" alt="Grafana"/>
-</a>&nbsp;
-<a href="https://www.sonarqube.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SonarQube-414141?style=flat&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-</a>&nbsp;
-<a href="https://bandit.readthedocs.io/en/latest/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Bandit-414141?style=flat&logo=python" alt="Bandit"/>
-</a>&nbsp;
-<a href="https://www.docker.com/get-started/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
-</a>&nbsp;
-<a href="https://about.gitlab.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GitLab-414141?style=flat&logo=gitlab&logoColor=orange" alt="GitLab"/>
-</a>&nbsp;
-<a href="https://docs.github.com/en/actions" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GitHub%20Actions-414141?style=flat&logo=githubactions" alt="GitHub Actions"/>
-</a><br />&nbsp;
+<img align="center" src="https://img.shields.io/badge/-Terraform-414141?style=flat&logo=terraform" alt="Terraform"/> </a>&nbsp; <a href="https://prometheus.io/docs/introduction/overview/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Prometheus-414141?style=flat&logo=prometheus" alt="Prometheus"/> </a>&nbsp; <a href="https://grafana.com/docs/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Grafana-414141?style=flat&logo=grafana" alt="Grafana"/> </a>&nbsp; <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-SonarQube-414141?style=flat&logo=sonarqube&logoColor=white" alt="SonarQube"/> </a>&nbsp; <a href="https://bandit.readthedocs.io/en/latest/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Bandit-414141?style=flat&logo=python" alt="Bandit"/> </a>&nbsp; <a href="https://www.docker.com/get-started/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/> </a>&nbsp; <a href="https://about.gitlab.com/" target="_blank"> <img align="center" src="https://img.shields.io/badge/-GitLab-414141?style=flat&logo=gitlab&logoColor=orange" alt="GitLab"/> </a>&nbsp; <a href="https://docs.github.com/en/actions" target="_blank"> <img align="center" src="https://img.shields.io/badge/-GitHub%20Actions-414141?style=flat&logo=githubactions" alt="GitHub Actions"/> </a><br />&nbsp;
 
 > Design UI:
 <a href="https://www.figma.com/" target="_blank">
